@@ -114,8 +114,8 @@ Face Recognition based Electronic Voting System for secure and automated voter a
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-* 📧 Email: *(Add your email address here)*
+* 💼 LinkedIn: *(www.linkedin.com/in/gangavarapu-swapna-kumari)*
+* 📧 Email: *(gangavarapuswapna1909@gmail.com)*
 
 ---
 
