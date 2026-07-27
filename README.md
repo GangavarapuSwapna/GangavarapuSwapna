@@ -1,25 +1,52 @@
 # Hi there 👋, I'm Swapna Kumari
 
-### Data Analyst | Data Science | Data Engineering | Machine Learning
+### Data Analyst | Data Engineer | Machine Learning Enthusiast
 
-I'm a Data Analyst with experience in Python, SQL, Machine Learning, Data Engineering, and Business Intelligence. I enjoy transforming raw data into meaningful insights and building end-to-end analytical solutions that solve real-world business problems.
+Passionate about transforming data into actionable insights through analytics, machine learning, and data engineering. Experienced with Python, SQL, PySpark, Tableau, and AWS, with projects in fraud detection, workflow automation, and business analytics.
+
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge\&logo=apachehive\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 ## 👩‍💻 About Me
 
-* 📊 Passionate about Data Analytics, Machine Learning, and Data Engineering
-* 🐍 Skilled in Python, SQL, PySpark, and Data Analysis
-* 📈 Experienced in building dashboards and data-driven solutions
-* ☁️ Familiar with AWS, ETL Pipelines, and Big Data technologies
-* 🌱 Currently exploring advanced Data Engineering and AI applications
+* 📊 Passionate about Data Analytics, Data Engineering, and Machine Learning
+* 🐍 Strong foundation in Python, SQL, PySpark, and Data Analysis
+* 📈 Experienced in developing data-driven solutions and interactive dashboards
+* ☁️ Familiar with AWS, ETL Pipelines, Big Data technologies, and cloud-based workflows
 * 💡 Interested in Banking Analytics, Fraud Detection, Risk Analytics, and Business Intelligence
+* 🌱 Continuously learning modern Data Engineering and AI technologies
+
+---
+
+## 💼 Experience
+
+**Data Analyst (Associate)**
+**Capco Technologies Pvt. Ltd.** | **Aug 2025 – Jan 2026**
+
+* Performed data analysis using Python and SQL to support business decision-making.
+* Worked with large datasets for reporting, validation, and analytical insights.
+* Assisted in data transformation, reporting automation, and business intelligence activities.
+* Collaborated with teams to deliver accurate, data-driven solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 
 * Python
 * SQL
@@ -37,8 +64,8 @@ I'm a Data Analyst with experience in Python, SQL, Machine Learning, Data Engine
 * Scikit-learn
 * Random Forest
 * Classification
-* Model Evaluation
 * Feature Engineering
+* Model Evaluation
 
 ### Data Engineering
 
@@ -68,43 +95,53 @@ I'm a Data Analyst with experience in Python, SQL, Machine Learning, Data Engine
 
 ## 🚀 Featured Projects
 
-### 💳 Credit Card Fraud Detection
+### 💳 [Credit Card Fraud Detection](https://github.com/GangavarapuSwapna/credit-card-fraud-detection)
 
-Machine Learning model to identify fraudulent financial transactions using Random Forest with data preprocessing, EDA, model evaluation, and feature importance analysis.
+Developed a machine learning solution to identify fraudulent financial transactions using Random Forest. The project includes data preprocessing, exploratory data analysis, feature engineering, model evaluation, and fraud prediction.
 
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-
----
-
-### 🔄 Workflow Builder
-
-Interactive workflow builder developed using React and FastAPI with API integration and dynamic node-based workflows.
-
-**Tech Stack:** React, FastAPI, JavaScript, Python
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
 ---
 
-### 🗳️ E-Voting System
+### 🔄 [Workflow Builder (React + FastAPI)](https://github.com/GangavarapuSwapna/workflow-builder-react-fastapi)
 
-Face Recognition based Electronic Voting System for secure and automated voter authentication.
+Built an interactive workflow builder with a React frontend and FastAPI backend, supporting dynamic node creation and API-based workflow execution.
 
-**Tech Stack:** Python, OpenCV, Machine Learning
+**Tech Stack:** React • FastAPI • JavaScript • Python
+
+---
+
+### 🗳️ [E-Voting System](https://github.com/GangavarapuSwapna/E-Voting-System)
+
+Designed a Face Recognition-based Electronic Voting System to provide secure voter authentication using computer vision and machine learning techniques.
+
+**Tech Stack:** Python • OpenCV • Machine Learning
 
 ---
 
 ## 📜 Certifications
 
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* PCAP – Programming Essentials in Python
-* Data Analytics with Python (NPTEL)
-* Generative AI Essentials
-* Responsible AI in the Generative AI Era
-* AWS Academy
-* Data Science with Machine Learning Internship
+* ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+* 🐍 PCAP – Programming Essentials in Python
+* 📊 Data Analytics with Python (NPTEL)
+* 🤖 Generative AI Essentials
+* 🛡️ Responsible AI in the Generative AI Era
+* ☁️ AWS Academy
+* 🎓 Data Science with Machine Learning Internship
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
+
+* Advanced Data Engineering
+* Apache Spark
+* Banking Analytics
+* Cloud Data Pipelines
+* Generative AI Applications
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangavarapuSwapna\&show_icons=true\&theme=default)
 
@@ -114,9 +151,11 @@ Face Recognition based Electronic Voting System for secure and automated voter a
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(www.linkedin.com/in/gangavarapu-swapna-kumari)*
-* 📧 Email: *(gangavarapuswapna1909@gmail.com)*
+* 💼 LinkedIn: https://www.linkedin.com/in/gangavarapu-swapna-kumari
+* 📧 Email: [gangavarapuswapna1909@gmail.com](mailto:gangavarapuswapna1909@gmail.com)
 
 ---
 
-⭐ *Always learning, building, and exploring innovative ways to solve business problems through data.*
+### ⭐ Open to Opportunities
+
+I'm actively seeking opportunities in **Data Analytics, Data Engineering, Machine Learning, and Business Intelligence**, where I can apply my analytical skills to solve real-world business challenges and continue growing as a data professional.
