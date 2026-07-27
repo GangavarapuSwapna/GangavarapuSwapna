@@ -1,25 +1,122 @@
-# 💫 About Me:
-Data Analyst with 6 months of experience in PySpark, SQL, Hive, and AWS, working with large-scale datasets (1–3M+<br>records per batch). Experienced in building ETL pipelines, data transformation, and distributed processing within<br>Hadoop ecosystems. Strong analytical skills with hands-on exposure to machine learning, feature engineering, and data<br>visualization for business reporting.<br>
+# Hi there 👋, I'm Swapna Kumari
 
+### Data Analyst | Data Science | Data Engineering | Machine Learning
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GangavarapuSwapna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GangavarapuSwapna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GangavarapuSwapna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GangavarapuSwapna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GangavarapuSwapna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a Data Analyst with experience in Python, SQL, Machine Learning, Data Engineering, and Business Intelligence. I enjoy transforming raw data into meaningful insights and building end-to-end analytical solutions that solve real-world business problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GangavarapuSwapna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Data Analytics / Data Engineering) 
+## 👩‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 📊 Passionate about Data Analytics, Machine Learning, and Data Engineering
+* 🐍 Skilled in Python, SQL, PySpark, and Data Analysis
+* 📈 Experienced in building dashboards and data-driven solutions
+* ☁️ Familiar with AWS, ETL Pipelines, and Big Data technologies
+* 🌱 Currently exploring advanced Data Engineering and AI applications
+* 💡 Interested in Banking Analytics, Fraud Detection, Risk Analytics, and Business Intelligence
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* Java
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Excel
+* Matplotlib
+
+### Machine Learning
+
+* Scikit-learn
+* Random Forest
+* Classification
+* Model Evaluation
+* Feature Engineering
+
+### Data Engineering
+
+* PySpark
+* Spark SQL
+* Hive
+* ETL Pipelines
+* Data Cleaning
+* Data Transformation
+
+### Data Visualization
+
+* Tableau
+* Power BI
+
+### Cloud & Tools
+
+* AWS (S3, EC2)
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+* FastAPI
+* React
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Credit Card Fraud Detection
+
+Machine Learning model to identify fraudulent financial transactions using Random Forest with data preprocessing, EDA, model evaluation, and feature importance analysis.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+
+---
+
+### 🔄 Workflow Builder
+
+Interactive workflow builder developed using React and FastAPI with API integration and dynamic node-based workflows.
+
+**Tech Stack:** React, FastAPI, JavaScript, Python
+
+---
+
+### 🗳️ E-Voting System
+
+Face Recognition based Electronic Voting System for secure and automated voter authentication.
+
+**Tech Stack:** Python, OpenCV, Machine Learning
+
+---
+
+## 📜 Certifications
+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* PCAP – Programming Essentials in Python
+* Data Analytics with Python (NPTEL)
+* Generative AI Essentials
+* Responsible AI in the Generative AI Era
+* AWS Academy
+* Data Science with Machine Learning Internship
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangavarapuSwapna\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GangavarapuSwapna\&layout=compact\&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *(Add your LinkedIn profile link here)*
+* 📧 Email: *(Add your email address here)*
+
+---
+
+⭐ *Always learning, building, and exploring innovative ways to solve business problems through data.*
